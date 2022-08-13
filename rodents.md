@@ -25,3 +25,23 @@
 - гоферовые (Geomyidae)
 
 - мешотчатые прыгуны (Heteromyidae)
+
+## * Мышеобразные (Myomorpha):
+
+- Мышовковые (Sminthidae)
+
+- Полутушканчиковые (Zapodidae)
+
+- Тушканчиковые (Dipodidae)
+
+- Колючие сони (Platacanthomyidae)
+
+- Слепышовые (Spalacidae)
+
+- Мышевидные хомячки (Calomyscidae)
+
+- Незомииды (Nesomyidae)
+
+- Хомяковые (Cricetidae)
+
+- Мышиные (Muridae)
