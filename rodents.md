@@ -34,8 +34,6 @@
 
 - гоферовые (Geomyidae)
 
-![](gofer.jpg)
-
 - мешотчатые прыгуны (Heteromyidae)
 
 ## * Мышеобразные (Myomorpha):
@@ -58,13 +56,6 @@
 
 - Мышиные (Muridae)
 
-## * Шипохвостообразные (Anomaluromorpha):
-
-- Долгоноговые (Pedetidae)
-
-- Шипохвостые (Anomaluridae)
-
-- Единственный вид беличий шипохвост (Zenkerella insignis)
 
 ## * Дикобразообразные (Hystricomorpha)
 
