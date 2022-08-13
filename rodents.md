@@ -17,3 +17,11 @@
 - беличьи (Sciuridae), в том числе белки (Sciurus) и сурки (Marmota)
 
 - соневые (Gliridae)
+
+## * Боброобразные (Castorimorpha): 
+
+- бобровые (Castoridae)
+
+- гоферовые (Geomyidae)
+
+- мешотчатые прыгуны (Heteromyidae)
