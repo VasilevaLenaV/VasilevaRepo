@@ -45,3 +45,11 @@
 - Хомяковые (Cricetidae)
 
 - Мышиные (Muridae)
+
+## * Шипохвостообразные (Anomaluromorpha):
+
+- Долгоноговые (Pedetidae)
+
+- Шипохвостые (Anomaluridae)
+
+- Единственный вид беличий шипохвост (Zenkerella insignis)
