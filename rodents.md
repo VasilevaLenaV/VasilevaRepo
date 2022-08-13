@@ -53,3 +53,41 @@
 - Шипохвостые (Anomaluridae)
 
 - Единственный вид беличий шипохвост (Zenkerella insignis)
+
+## * Дикобразообразные (Hystricomorpha)
+
+- Крысиношиншилловые (Abrocomidae) 
+
+- Землекоповые (Bathyergidae) 
+
+- Хутиевые (Capromyidae) 
+
+- Свинковые (Caviidae) 
+
+- Шиншилловые (Chinchillidae) 
+
+- Туко-туковые (Ctenomyidae) 
+
+- Паковые (Cuniculidae) 
+
+- Агутиевые (Dasyproctidae) 
+
+- Лаосские горные крысы (Diatomyidae) 
+
+- Пакарановые (Dinomyidae) 
+
+- Щетинистые крысы (Echimyidae) 
+
+- Древеснодикобразовые (Erethizontidae) 
+
+- Семизубовые (Heptaxodontidae) 
+
+- Дикообразовые (Hystricidae) 
+
+- Нутриевые (Myocastoridae) 
+
+- Восьмизубовые (Octodontidae) 
+
+- Скальнокрысиные (Petromuridae) 
+
+- Тростниковокрысиные (Thryonomyidae) 
