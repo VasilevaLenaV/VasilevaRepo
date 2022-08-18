@@ -24,4 +24,4 @@
 
 - Дикобразообразные (Hystricomorpha)
 
-![](kapibara.jpg)
+![](kapibara.jpg) )
